@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/imdb-movie/static/css/main.e45fb457.css",
-    "main.js": "/imdb-movie/static/js/main.90f21d6f.js",
+    "main.js": "/imdb-movie/static/js/main.1cd7da12.js",
     "index.html": "/imdb-movie/index.html",
     "main.e45fb457.css.map": "/imdb-movie/static/css/main.e45fb457.css.map",
-    "main.90f21d6f.js.map": "/imdb-movie/static/js/main.90f21d6f.js.map"
+    "main.1cd7da12.js.map": "/imdb-movie/static/js/main.1cd7da12.js.map"
   },
   "entrypoints": [
     "static/css/main.e45fb457.css",
-    "static/js/main.90f21d6f.js"
+    "static/js/main.1cd7da12.js"
   ]
 }
