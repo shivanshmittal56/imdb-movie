@@ -12,7 +12,7 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route exact path="/" element={<Home />} />
+          <Route exact path="/imdb-movie" element={<Home />} />
 
           <Route path="movie/:id" element={<MovieDetail />}></Route>
           <Route path="movies/:type" element={<MovieList />}></Route>
